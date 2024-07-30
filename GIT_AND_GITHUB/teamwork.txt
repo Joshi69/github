@@ -1,0 +1,33 @@
+COMMON STEPS
+
+-
+
+2
+
+3
+
+main banda folder and initial files banaayega
+
+4 ab usse github par daal de
+
+5 collaborators add kare
+
+6
+
+7
+
+saare bande us repo se cloning karein
+
+8
+
+[VERY IMPORTANT] apni branch create karein
+
+9
+
+apna code usi branch mein likhein
+
+10 complete hone par commit dein
+
+11 inform karein teammate ko about the commit
+
+12 merger banda fetch karega and merge karega and re-push

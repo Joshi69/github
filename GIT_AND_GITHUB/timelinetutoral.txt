@@ -1,0 +1,2 @@
+aaj ka hissab  =1200
+parso ka hissab  =2300
